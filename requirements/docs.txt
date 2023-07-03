@@ -29,7 +29,7 @@ packaging==22.0
     #   sphinx
 pallets-sphinx-themes==2.0.3
     # via -r requirements/docs.in
-pygments==2.14.0
+pygments==2.15.0
     # via sphinx
 pytz==2022.7
     # via babel
